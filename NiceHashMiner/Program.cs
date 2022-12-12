@@ -60,7 +60,7 @@ namespace NiceHashMiner
                 // init active display currency after config load
                 ExchangeRateAPI.ActiveDisplayCurrency = ConfigManager.GeneralConfig.DisplayCurrency;
 
-                // #2 then parse args
+                // #2 then parse args 
                 var commandLineArgs = new CommandLineParser(argv);
 
                 Helpers.ConsolePrint("NICEHASH", "Starting up NiceHashMiner v" + Application.ProductVersion);

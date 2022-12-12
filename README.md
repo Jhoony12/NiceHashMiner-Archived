@@ -36,7 +36,7 @@ NiceHash Miner is essentially the only tool a miner needs. No need to go through
 - Watch-feature - automatically restart miner if crashed or hanged.
 - Display current rate and your balance in real time.
 - Auto update notifications.
-- Much more...
+- Much more....
 
 # <a name="requirements"></a> Requirements
 

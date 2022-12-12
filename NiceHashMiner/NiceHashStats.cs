@@ -21,7 +21,7 @@ namespace NiceHashMiner
         public int algo;
         public double paying;
     }
-#pragma warning restore 649
+#pragma warning restore 649 
 
     class NiceHashStats
     {
